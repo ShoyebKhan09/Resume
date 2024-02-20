@@ -1,2 +1,2 @@
 # Resume
-Public View of Resume
+Public View of My Resume
